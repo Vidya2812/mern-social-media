@@ -1,6 +1,0 @@
-{
-  "appId": "com.connect.app",
-  "appName": "connect-app",
-  "webDir": "www",
-  "bundledWebRuntime": false
-}
